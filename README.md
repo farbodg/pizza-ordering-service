@@ -26,7 +26,7 @@ Quit the server with CONTROL-C.
 ```
 
 ## Usage
-Please familiarize yourself with the models in the ***models*** directory so you get a sense of the relationships between the different tables. From a high level overview, an Order is consisted of one or more Pizzas, which is consisted of one or more Ingredients. An Order also contains a customer. A few sample request files have been provided in the ***samples*** directory.
+Please familiarize yourself with the models in the ***models*** directory so you get a sense of the relationships between the different tables. From a high level overview, an **Order** consists of one or more **Pizzas**, which consists of one or more **Ingredients**. An **Order** also contains a **Customer**. A few sample request files have been provided in the ***samples*** directory.
 
 ## Endpoints
 GET ***/order*** - displays all of the orders in the system (returning limited fields)
