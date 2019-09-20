@@ -1,0 +1,16 @@
+{
+    "customer":1,
+    "pizzas":[
+        {
+            "quantity":1,
+            "size": "L",
+            "ingredients":[
+                "GROUNDBEEF",
+                "ONION",
+                "GREENPEP",
+                "PINEAPPLE",
+                "TOMATO"
+            ]
+        }
+    ]
+}
